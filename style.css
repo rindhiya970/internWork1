@@ -485,12 +485,12 @@
   
   #testimonials .section-wrapper::-webkit-scrollbar {
     height: 8px;
-    background-color: #aaa;
+    background-color: #cec9c9;
     border-radius: 5px;
   }
   
   #testimonials .section-wrapper::-webkit-scrollbar-thumb {
-    background-color: #14bf98;
+    background-color: #1fc9a1;
     border-radius: 5px;
   }
   
