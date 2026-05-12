@@ -2,11 +2,11 @@
 
 A JavaScript-based project deployed on Vercel.
 
-## 📋 Overview
+## Overview
 
 This is an internship work project built with JavaScript. The application is live and accessible at [intern-work1-alpha.vercel.app](https://intern-work1-alpha.vercel.app).
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher recommended)
@@ -36,7 +36,7 @@ This is an internship work project built with JavaScript. The application is liv
 
 4. Open your browser and navigate to `http://localhost:3000` (or the specified port)
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 internWork1/
@@ -55,7 +55,7 @@ In the project directory, you can run:
 - `npm test` - Launches the test runner
 - `npm run deploy` - Deploys to Vercel
 
-## 🌐 Deployment
+##  Deployment
 
 This project is deployed on [Vercel](https://vercel.com). The live version is available at:
 **[https://intern-work1-alpha.vercel.app](https://intern-work1-alpha.vercel.app)**
@@ -65,7 +65,7 @@ This project is deployed on [Vercel](https://vercel.com). The live version is av
 2. Vercel automatically deploys the latest changes
 3. Check deployment status in the Vercel dashboard
 
-## 📝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to:
 - Fork the repository
@@ -74,15 +74,15 @@ Contributions are welcome! Please feel free to:
 - Push to the branch (`git push origin feature/AmazingFeature`)
 - Open a Pull Request
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
+##  Author
 
 - **GitHub**: [@rindhiya970](https://github.com/rindhiya970)
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions, please open an [issue](https://github.com/rindhiya970/internWork1/issues) on GitHub.
 
